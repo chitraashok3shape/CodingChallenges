@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodingChallengeSiteImprove": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\chitra ashok\\Documents\\Personal\\study\\code challenge\\opg1\\Example input\" \"Section \\d+ Refresh\""
+    }
+  }
+}
